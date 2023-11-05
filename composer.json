@@ -1,0 +1,11 @@
+{
+    "name": "kuba/aidevs-task-service",
+    "autoload": {
+        "psr-4": {
+            "Kuba\\AidevsTaskManager\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
