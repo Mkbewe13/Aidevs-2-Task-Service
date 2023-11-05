@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {
+      "name": "helloapi",
+      "number": 1,
+      "chapter": 1,
+      "lesson": 1,
+      "description": "First task to test TaskApi connection"
+    }
+  ]
+}
